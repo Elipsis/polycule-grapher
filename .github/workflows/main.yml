@@ -3,7 +3,7 @@ name: Rerender Graphs
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   refresh-renders:
