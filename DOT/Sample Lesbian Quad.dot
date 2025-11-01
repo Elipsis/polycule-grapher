@@ -1,0 +1,10 @@
+graph SampleLesbianQuad {
+    layout=circo
+
+	Alice -- Beatrix
+	Alice -- Carol
+	Alice -- Eve
+	Beatrix -- Eve
+	Beatrix -- Carol
+	Carol -- Eve
+}
