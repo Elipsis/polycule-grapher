@@ -3,8 +3,8 @@ graph SampleLesbianQuad {
 
 	Alice -- Beatrix
 	Alice -- Carol
-	Alice -- Evee
-	Beatrix -- Evee
+	Alice -- Eevee
+	Beatrix -- Eevee
 	Beatrix -- Carol
-	Carol -- Evee
+	Carol -- Eevee
 }
