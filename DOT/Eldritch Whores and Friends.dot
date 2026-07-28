@@ -1,0 +1,64 @@
+graph Eldritch {
+
+	#Graph Render Properties
+    layout = dot
+    newrank = true
+
+    #Styling
+    label = "Eldritch Whores and Friends"
+    ratio = 0
+
+    #Members (Public)
+    node [
+        color = black,
+        style= filled,
+        fillcolor= "#c0ffc0",
+        fixedsize=true,
+        width=2,
+        height=1
+        ]
+    Alex
+    ArtemisFallen
+    DangerousProfessor
+    effemerish
+    Elipsis
+    FrayedKnotPhotography
+    JT
+    MaximPetrov
+    netle
+    Neuromancer28
+    Nynaeve
+    NyssaRose
+    owlfinch
+    Pepper_Pots
+    Phil
+    Sebastian
+    secunda
+    something2summer
+    VelvetJezebel
+    wigglebug
+
+    #Relationships (Public)
+    edge [color = "black"]
+    Alex -- secunda
+    DangerousProfessor -- Pepper_Pots
+    effemerish -- netle
+    Elipsis -- ArtemisFallen
+    Elipsis -- Nynaeve
+    Elipsis -- something2summer
+    MaximPetrov -- VelvetJezebel
+    Neuromancer28 -- FrayedKnotPhotography
+    Neuromancer28 -- owlfinch
+    netle -- wigglebug
+    Nynaeve -- JT
+    Nynaeve -- Phil
+    NyssaRose -- Alex
+    NyssaRose -- DangerousProfessor
+    owlfinch -- effemerish
+    owlfinch -- NyssaRose
+    owlfinch -- Sebastian
+    something2summer -- MaximPetrov
+    something2summer -- Neuromancer28
+    something2summer -- VelvetJezebel
+}
+

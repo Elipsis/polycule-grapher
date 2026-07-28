@@ -6,6 +6,14 @@ The GitHub Polycule Grapher is designed to create a single source of truth to sh
 
 The GitHub Polycule Grapher is powered by [Graphviz](https://graphviz.org/) and relies on [GitHub Actions](https://github.com/features/actions) to update the graph renders upon a successful push to the `DOT/*.dot` directory.
 
+## Privacy and Consent
+
+The Polycule Grapher runs on the internet, and as such all information placed in this repository is visible to the public.  GitHub also keeps a history of previous versions of files, which means removing relationships, individuals, or other information from the source files will not completely scrub it from record.
+
+**Obtain consent from everyone involved before putting their name on a public facing polycule graph!**  Consider the use of aliases, first name only, or even blank circles to protect the identities of those who are not comfortable being openly named as poly.
+
+Lastly, while I would love to see many other GitHub users adding their own .DOT files - only do so if you are comfortable with this activity appearing in your contribution history.
+
 ## Usage
 
 Create a PR which adds or updates a .DOT file containing your unique polycule info.  Once merged, a graph will appear in the corresponding directory.
