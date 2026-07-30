@@ -35,7 +35,7 @@ graph SampleLesbianQuad {
 
 This produces the following graph:
 
-![screenshot of rendered graph](https://github.com/Elipsis/polycule-grapher/blob/main/Renders/Sample%20Lesbian%20Quad.svg)
+![screenshot of rendered graph](https://github.com/Elipsis/polycule-grapher/blob/master/Renders/Sample%20Lesbian%20Quad.svg)
 
 which is visible in `Renders/Sample Lesbian Quad.svg`.  You can share this with your sample polycule with [a permanent link](https://raw.githubusercontent.com/Elipsis/polycule-grapher/refs/heads/main/Renders/Sample%20Lesbian%20Quad.svg) to the rendered .SVG file.
 
