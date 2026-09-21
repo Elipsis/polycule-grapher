@@ -36,7 +36,6 @@ graph Eldritch {
     secunda
     something2summer
     VelvetJezebel
-    wigglebug
 
     #Relationships (Public)
     edge [color = "black"]
@@ -49,7 +48,6 @@ graph Eldritch {
     MaximPetrov -- VelvetJezebel
     Neuromancer28 -- FrayedKnotPhotography
     Neuromancer28 -- owlfinch
-    netle -- wigglebug
     Nynaeve -- JT
     Nynaeve -- Phil
     NyssaRose -- Alex
