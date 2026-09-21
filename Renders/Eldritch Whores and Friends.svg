@@ -129,17 +129,6 @@
 <title>MaximPetrov&#45;&#45;VelvetJezebel</title>
 <path fill="none" stroke="black" d="M402.27,-455C404.35,-443.42 406.66,-430.54 408.73,-418.97"/>
 </g>
-<!-- wigglebug -->
-<g id="node20" class="node">
-<title>wigglebug</title>
-<ellipse fill="#c0ffc0" stroke="black" cx="586" cy="-59" rx="72" ry="36"/>
-<text text-anchor="middle" x="586" y="-55.3" font-family="Times,serif" font-size="14.00">wigglebug</text>
-</g>
-<!-- netle&#45;&#45;wigglebug -->
-<g id="edge10" class="edge">
-<title>netle&#45;&#45;wigglebug</title>
-<path fill="none" stroke="black" d="M586,-131C586,-119.54 586,-106.81 586,-95.33"/>
-</g>
 <!-- Neuromancer28 -->
 <g id="node10" class="node">
 <title>Neuromancer28</title>
@@ -163,7 +152,7 @@
 <path fill="none" stroke="black" d="M637.13,-461.31C658.76,-446.23 685.2,-427.79 706.83,-412.71"/>
 </g>
 <!-- Nynaeve&#45;&#45;JT -->
-<g id="edge11" class="edge">
+<g id="edge10" class="edge">
 <title>Nynaeve&#45;&#45;JT</title>
 <path fill="none" stroke="black" d="M191.01,-569.87C167.48,-554.48 138.42,-535.46 114.91,-520.08"/>
 </g>
@@ -174,7 +163,7 @@
 <text text-anchor="middle" x="234" y="-487.3" font-family="Times,serif" font-size="14.00">Phil</text>
 </g>
 <!-- Nynaeve&#45;&#45;Phil -->
-<g id="edge12" class="edge">
+<g id="edge11" class="edge">
 <title>Nynaeve&#45;&#45;Phil</title>
 <path fill="none" stroke="black" d="M234,-563C234,-551.54 234,-538.81 234,-527.33"/>
 </g>
@@ -185,22 +174,22 @@
 <text text-anchor="middle" x="748" y="-271.3" font-family="Times,serif" font-size="14.00">NyssaRose</text>
 </g>
 <!-- NyssaRose&#45;&#45;Alex -->
-<g id="edge13" class="edge">
+<g id="edge12" class="edge">
 <title>NyssaRose&#45;&#45;Alex</title>
 <path fill="none" stroke="black" d="M748,-239C748,-227.54 748,-214.81 748,-203.33"/>
 </g>
 <!-- NyssaRose&#45;&#45;DangerousProfessor -->
-<g id="edge14" class="edge">
+<g id="edge13" class="edge">
 <title>NyssaRose&#45;&#45;DangerousProfessor</title>
 <path fill="none" stroke="black" d="M790.99,-245.87C814.52,-230.48 843.58,-211.46 867.09,-196.08"/>
 </g>
 <!-- owlfinch&#45;&#45;effemerish -->
-<g id="edge15" class="edge">
+<g id="edge14" class="edge">
 <title>owlfinch&#45;&#45;effemerish</title>
 <path fill="none" stroke="black" d="M705.01,-353.87C681.48,-338.48 652.42,-319.46 628.91,-304.08"/>
 </g>
 <!-- owlfinch&#45;&#45;NyssaRose -->
-<g id="edge16" class="edge">
+<g id="edge15" class="edge">
 <title>owlfinch&#45;&#45;NyssaRose</title>
 <path fill="none" stroke="black" d="M748,-347C748,-335.54 748,-322.81 748,-311.33"/>
 </g>
@@ -211,22 +200,22 @@
 <text text-anchor="middle" x="910" y="-271.3" font-family="Times,serif" font-size="14.00">Sebastian</text>
 </g>
 <!-- owlfinch&#45;&#45;Sebastian -->
-<g id="edge17" class="edge">
+<g id="edge16" class="edge">
 <title>owlfinch&#45;&#45;Sebastian</title>
 <path fill="none" stroke="black" d="M790.99,-353.87C814.52,-338.48 843.58,-319.46 867.09,-304.08"/>
 </g>
 <!-- something2summer&#45;&#45;MaximPetrov -->
-<g id="edge18" class="edge">
+<g id="edge17" class="edge">
 <title>something2summer&#45;&#45;MaximPetrov</title>
 <path fill="none" stroke="black" d="M429.9,-563.88C424.25,-551.89 417.9,-538.43 412.24,-526.42"/>
 </g>
 <!-- something2summer&#45;&#45;Neuromancer28 -->
-<g id="edge19" class="edge">
+<g id="edge18" class="edge">
 <title>something2summer&#45;&#45;Neuromancer28</title>
 <path fill="none" stroke="black" d="M486.99,-569.04C508.24,-554.02 534.11,-535.73 555.32,-520.75"/>
 </g>
 <!-- something2summer&#45;&#45;VelvetJezebel -->
-<g id="edge20" class="edge">
+<g id="edge19" class="edge">
 <title>something2summer&#45;&#45;VelvetJezebel</title>
 <path fill="none" stroke="black" d="M464.04,-563.98C477.18,-534.5 490.52,-491.03 477,-455 471.37,-439.98 460.96,-426.06 450.26,-414.59"/>
 </g>
