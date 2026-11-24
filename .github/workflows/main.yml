@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Graphviz
-        uses: ts-graphviz/setup-graphviz@v1 # Use the setup-graphviz action
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes graphviz
       - name: checkout repo content
         uses: actions/checkout@v3 # checkout the repository content to github runner.
       - name: setup python
