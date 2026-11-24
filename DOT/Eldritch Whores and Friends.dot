@@ -17,7 +17,6 @@ graph Eldritch {
         width=2,
         height=1
         ]
-    Alex
     ArtemisFallen
     DangerousProfessor
     effemerish
@@ -33,13 +32,11 @@ graph Eldritch {
     Pepper_Pots
     Phil
     Sebastian
-    secunda
     something2summer
     VelvetJezebel
 
     #Relationships (Public)
     edge [color = "black"]
-    Alex -- secunda
     DangerousProfessor -- Pepper_Pots
     effemerish -- netle
     Elipsis -- ArtemisFallen
@@ -50,7 +47,6 @@ graph Eldritch {
     Neuromancer28 -- owlfinch
     Nynaeve -- JT
     Nynaeve -- Phil
-    NyssaRose -- Alex
     NyssaRose -- DangerousProfessor
     owlfinch -- effemerish
     owlfinch -- NyssaRose
